@@ -6,4 +6,4 @@ This is primarily a training project, in which experiments will be carried out t
 All algorithms are implemented in Python, using numpy, scipy and autograd.  
 
 ### Implemented:
-* [K-nearest neighbors] *(Simple kNN algorithm, but using a k-dimensional tree data structure inside to speed up nearest neighbor searches)*
+* **[K-nearest neighbors]** *(Simple kNN algorithm, but using a k-dimensional tree data structure inside to speed up nearest neighbor searches)*
